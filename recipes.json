@@ -1,0 +1,45 @@
+// -----------------------------
+// RECIPE DATA
+// -----------------------------
+const recipes = [
+  {
+    id: 1,
+    title: "Trying Mama Pancakes",
+    description: "Fluffy, kid‑approved pancakes you can make in 10 minutes.",
+    image: "https://via.placeholder.com/800x400?text=Pancakes",
+    ingredients: [
+      "1 cup flour",
+      "1 tbsp sugar",
+      "1 tsp baking powder",
+      "1 egg",
+      "3/4 cup milk",
+      "Butter for cooking"
+    ],
+    instructions: [
+      "Mix dry ingredients together.",
+      "Add egg and milk, stir until smooth.",
+      "Heat butter in a pan.",
+      "Pour batter and cook until bubbles form.",
+      "Flip and cook until golden."
+    ]
+  },
+  {
+    id: 2,
+    title: "Midnight Mama Pasta",
+    description: "Comfort pasta for the nights you’re too tired to think.",
+    image: "https://via.placeholder.com/800x400?text=Pasta",
+    ingredients: [
+      "8 oz pasta",
+      "2 tbsp olive oil",
+      "2 cloves garlic",
+      "Salt and pepper",
+      "Parmesan cheese"
+    ],
+    instructions: [
+      "Boil pasta according to package directions.",
+      "Sauté garlic in olive oil until fragrant.",
+      "Toss pasta with garlic oil, salt, and pepper.",
+      "Top with parmesan and serve warm."
+    ]
+  }
+];
