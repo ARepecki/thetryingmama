@@ -1,0 +1,25 @@
+// -----------------------------
+// BLOG DATA
+// -----------------------------
+const blogPosts = [
+  {
+    id: 1,
+    title: "Surviving Toddler Chaos",
+    date: "August 2026",
+    excerpt: "A real look at the messy, funny, exhausting moments that make motherhood unforgettable.",
+    content: [
+      "Some days, the toys never make it back into the bin and the dishes never make it out of the sink.",
+      "But in the middle of the chaos, there are tiny moments—sticky hugs, sleepy smiles—that remind you why you keep trying."
+    ]
+  },
+  {
+    id: 2,
+    title: "5-Minute Mama Meals",
+    date: "August 2026",
+    excerpt: "Quick, easy meals for moms who barely have time to breathe.",
+    content: [
+      "You don’t need an hour in the kitchen to feed your family something warm and comforting.",
+      "These 5-minute ideas are made for nights when you’re running on fumes and still showing up."
+    ]
+  }
+];
